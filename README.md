@@ -26,6 +26,18 @@
 
 </div>
 
+<h2 align="center"> Connect With Me </h2>
+<br/>
+<div algin="center">
+  <a href="ncutler211@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
+  </a>
+  <a href="https://www.linkedin.com/in/natecutler/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=blue" target=_blank"/>
+  </a>
+</div>
+
+
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 
