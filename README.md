@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NCutler211.NCutler211" />
+<img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=NCutler211.NCutler211](https://api.visitorbadge.io/api/visitors?path=NCutler211%2FNCutler211&label=Visitors&countColor=%23263759)" />
 
 <!--
 **NCutler211/NCutler211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
