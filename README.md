@@ -10,6 +10,10 @@
   </a>
 </p>
 
+<h3 align="center">A Marine Corps veteran  pursuing data-oriented solutions from Indiana </h3>
+
+
+
 <!--
 **NCutler211/NCutler211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
