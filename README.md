@@ -1,6 +1,6 @@
 <p align="right">
   <a href="https://visitorbadge.io/status?path=NCutler211%2FNCutler211">
-    <img src="https://api.visitorbadge.io/api/visitors?path=NCutler211%2FNCutler211&label=Visitors&countColor=%23263759" alt="Visits">
+    <img src="https://api.visitorbadge.io/api/visitors?path=NCutler211%2FNCutler211&label=Visits&countColor=%23263759" alt="Visits">
   </a>
 </p>
 
