@@ -14,10 +14,11 @@
 <br/>
 
 <div align="center">
-  
-  I'm currently working on [**Project Radiance**](https://github.com/dessak/ISTA498-Capstone) a relational database of global ambient gamma radiation measurements
-
-  Currently debating which university to attend for an M.S.
+  <ul>
+    <li>I'm currently working on [**Project Radiance**](https://github.com/dessak/ISTA498-Capstone) a relational database of global ambient gamma radiation measurements
+</li>
+    <li>Currently debating which university to attend for an M.S</li>
+  </ul>
 </div>
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
