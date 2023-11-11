@@ -18,22 +18,10 @@
   I'm currently working on [**Project Radiance**](https://github.com/dessak/ISTA498-Capstone) a relational database of global ambient gamma radiation measurements
 
   Currently debating which university to attend for an M.S.
-</div> 
-
-<div align="center">
-  <a href="ncutler211@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
-  </a>
-  <a href="https://www.linkedin.com/in/natecutler/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"/>
-  </a>  
 </div>
-<hr/>
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
-<div align="center">
-<a href="https://skillicons.dev">
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
@@ -41,42 +29,6 @@
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="SVG Banners" style="font-size: 15px;">
   </a>
   
-  <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
-  </a>
-
-  <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
-  </a>
-
-  <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
-  </a>
-
-  <!-- Add the rest of your badges following the same pattern -->
-
-</div>
-
-<div align="center">
-  <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="SVG Banners style="font-size: 15px;">
-  </a>
-  
-  <p align="center">
-  <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="SVG Banners style="font-size: 15px;">
-  </a>
-
-  <p align="center">
-  <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="SVG Banners style="font-size: 15px;">
-  </a>
-
-  <p align="center">
-  <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="SVG Banners style="font-size: 15px;">
-  </a>
-    
   <p align="center">
   <a href="https://github.com/Akshay090/svg-banners">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="SVG Banners style="font-size: 15px;">
@@ -84,9 +36,27 @@
 
   <p align="center">
   <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="SVG Banners style="font-size: 15px;">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="SVG Banners style="font-size: 15px;">
+  </a>
+
+  <p align="center">
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SVG Banners style="font-size: 15px;">
   </a>
   
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
+  </a>
+
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="SVG Banners style="font-size: 15px;">
+  </a>   
+
+  <p align="center">
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="SVG Banners style="font-size: 15px;">
+  </a>
+
   <p align="center">
   <a href="https://github.com/Akshay090/svg-banners">
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="SVG Banners style="font-size: 15px;">
@@ -106,23 +76,17 @@
   <a href="https://github.com/Akshay090/svg-banners">
     <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="SVG Banners style="font-size: 15px;">
   </a>
-    
-  <p align="center">
+
   <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="SVG Banners style="font-size: 15px;">
+    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
   </a>
 
-  <p align="center">
   <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SVG Banners style="font-size: 15px;">
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
   </a>
-
-  <p align="center">
-  <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="SVG Banners style="font-size: 15px;">
-  </a>    
-</a>
 </div>
+
+
 
 
 <!--
