@@ -1,7 +1,9 @@
-#Visits Badge
-<div style="text-align: right;">
-[![Visits](https://api.visitorbadge.io/api/visitors?path=NCutler211%2FNCutler211&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=NCutler211%2FNCutler211)
-</div>
+<p align="right">
+  <a href="https://visitorbadge.io/status?path=NCutler211%2FNCutler211">
+    <img src="https://api.visitorbadge.io/api/visitors?path=NCutler211%2FNCutler211&label=Visitors&countColor=%23263759" alt="Visits">
+  </a>
+</p>
+
 
 
 <!--
