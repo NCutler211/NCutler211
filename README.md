@@ -21,13 +21,14 @@
 </div> 
 
 <div align="center">
-  <a href="ncutler211@gmail.com" style="text-decoration: none;">
+  <a href="ncutler211@gmail.com" style="text-decoration: none !important;">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
   </a>
-  <a href="https://www.linkedin.com/in/natecutler/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/natecutler/" target="_blank" style="text-decoration: none !important;">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"/>
   </a>
 </div>
+
 
 
 
