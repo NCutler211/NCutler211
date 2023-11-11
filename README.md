@@ -28,7 +28,7 @@
 
 <h2 align="center"> Connect With Me </h2>
 <br/>
-<div algin="center">
+<div align="center">
   <a href="ncutler211@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
   </a>
