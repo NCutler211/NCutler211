@@ -11,6 +11,11 @@
 </p>
 
 <h3 align="center">A Marine Corps veteran  pursuing data-oriented solutions from Indiana </h3>
+<br/>
+  I'm currently working on Project Radiance a *relational database* of global ambient gamma radiation measurements
+
+  Currently debating which university to attend for an M.S.
+<div align="center">
 
 
 
