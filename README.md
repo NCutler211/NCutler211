@@ -11,6 +11,11 @@
 </p>
 
 <h3 align="center">A Marine Corps veteran  pursuing data-oriented solutions from Indiana </h3>
+<div align="center">
+  
+•• Well-versed in Python, SQL, and data/statistical analysis models ••
+
+</div>
 <br/>
 
 <div align="center">
