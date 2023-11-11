@@ -1,4 +1,4 @@
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=NCutler211%2FNCutler211&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=NCutler211%2FNCutler211)
+<p align="right">[![Visits](https://api.visitorbadge.io/api/visitors?path=NCutler211%2FNCutler211&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=NCutler211%2FNCutler211)</p>
 
 <!--
 **NCutler211/NCutler211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
