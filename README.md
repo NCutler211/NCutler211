@@ -13,17 +13,12 @@
 <h3 align="center">A Marine Corps veteran  pursuing data-oriented solutions from Indiana </h3>
 <br/>
 
-<style>
-  ul {
-    text-align: center;
-    list-style-position: inside;
-</style>
 <div align="center">
-  <ul>
-    <li>I'm currently working on [**Project Radiance**](https://github.com/dessak/ISTA498-Capstone) a relational database of global ambient gamma radiation measurements
-</li>
-    <li>Currently debating which university to attend for an M.S</li>
-  </ul>
+  
+• I'm currently working on [**Project Radiance**](https://github.com/dessak/ISTA498-Capstone) a relational database of global ambient gamma radiation measurements
+  
+• Currently debating which university to attend for an M.S
+
 </div>
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
