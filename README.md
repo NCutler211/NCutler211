@@ -28,53 +28,45 @@
   <a href="https://github.com/Akshay090/svg-banners">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="SVG Banners" style="font-size: 15px;">
   </a>
-  
-  <p align="center">
+
   <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="SVG Banners style="font-size: 15px;">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
   </a>
 
-  <p align="center">
   <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="SVG Banners style="font-size: 15px;">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
   </a>
 
-  <p align="center">
   <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SVG Banners style="font-size: 15px;">
+    <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
   </a>
-  
+
   <a href="https://github.com/Akshay090/svg-banners">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
   </a>
 
   <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="SVG Banners style="font-size: 15px;">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
   </a>   
 
-  <p align="center">
   <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="SVG Banners style="font-size: 15px;">
+    <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
   </a>
 
-  <p align="center">
   <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="SVG Banners style="font-size: 15px;">
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
   </a>
-    
-  <p align="center">
+
   <a href="https://github.com/Akshay090/svg-banners">
-    <img src="hhttps://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="SVG Banners style="font-size: 15px;">
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
   </a>
-    
-  <p align="center">
+
   <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="SVG Banners style="font-size: 15px;">
+    <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
   </a>
-    
-  <p align="center">
+
   <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="SVG Banners style="font-size: 15px;">
+    <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
   </a>
 
   <a href="https://github.com/Akshay090/svg-banners">
@@ -84,7 +76,9 @@
   <a href="https://github.com/Akshay090/svg-banners">
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
   </a>
+
 </div>
+
 
 
 
