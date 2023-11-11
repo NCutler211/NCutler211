@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Nate%20Cutler%20Data%20Scientist&width=800&height=400" alt="SVG Banners style="font-size: 15px;">
+    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Nate%20Cutler%20Data%20Scientist&width=800&height=200" alt="SVG Banners style="font-size: 15px;">
   </a>
 </p>
 
