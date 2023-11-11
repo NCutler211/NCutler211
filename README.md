@@ -15,9 +15,9 @@
 
 <div align="center">
   
-• I'm currently working on [**Project Radiance**](https://github.com/dessak/ISTA498-Capstone) a relational database of global ambient gamma radiation measurements
+• I'm currently working on [**Project Radiance**](https://github.com/dessak/ISTA498-Capstone) a relational database of global ambient gamma radiation measurements •
   
-• Currently debating which university to attend for an M.S
+• Currently debating which university to attend for an M.S •
 
 </div>
 
