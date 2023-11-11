@@ -34,8 +34,30 @@
 <br/>
 <div align="center">
 <a href="https://skillicons.dev">
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="SVG Banners" style="font-size: 15px;">
+  </a>
   
-<p align="center">
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
+  </a>
+
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
+  </a>
+
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="SVG Banners" style="font-size: 15px;">
+  </a>
+
+  <!-- Add the rest of your badges following the same pattern -->
+
+</div>
+
+<div align="center">
   <a href="https://github.com/Akshay090/svg-banners">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="SVG Banners style="font-size: 15px;">
   </a>
