@@ -33,7 +33,7 @@
 
     </td>
     <td>
-      
+      <div style="width:290px">property</div>
 * Item 11
 * Item 12
 * Item 13
