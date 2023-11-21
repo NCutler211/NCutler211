@@ -6,8 +6,6 @@
   
 • I'm currently working on [**Project Radiance**](https://github.com/dessak/ISTA498-Capstone) a relational database of global ambient gamma radiation measurements •
   
-• Currently debating which university to attend for an M.S •
-
 </div>
 
 <h2 align="left"> Connect With Me </h2>
