@@ -2,7 +2,7 @@
 
 <h4 align="left">Hi, I'm Nate, an aspiring member of the data and information industry. I'm a Marine Corps veteran with 7 years of experience in hazardous materials and I look forward to helping you with your data needs.</h4>
 
-<div align="center">
+<div align="left">
   
 • I'm currently working on [**Project Radiance**](https://github.com/dessak/ISTA498-Capstone) a relational database of global ambient gamma radiation measurements •
   
@@ -10,7 +10,7 @@
 
 </div>
 
-<h2 align="center"> Connect With Me </h2>
+<h2 align="left"> Connect With Me </h2>
 <br/>
 <div align="center">
   <a href="mailto:ncutler211@gmail.com">
