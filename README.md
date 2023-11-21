@@ -1,11 +1,5 @@
 ![Banner](https://github.com/NCutler211/NCutler211/assets/92125281/5daab28e-a069-4b9b-a3d1-eeeafeef9530)
 
-<p align="right">
-  <a href="https://visitorbadge.io/status?path=NCutler211%2FNCutler211">
-    <img src="https://api.visitorbadge.io/api/visitors?path=NCutler211%2FNCutler211&label=Visits&countColor=%23263759" alt="Visits">
-  </a>
-</p>
-
 <h4 align="left">Hi, I'm Nate, an aspiring member of the data and information industry. I'm a Marine Corps veteran with 7 years of experience in hazardous materials and I look forward to helping you with your data needs.</h4>
 
 <div align="center">
