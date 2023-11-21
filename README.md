@@ -4,9 +4,8 @@
   </a>
 </p>
 
-<p align="center">
-  ![Banner](https://github.com/NCutler211/NCutler211gitfront/images/Banner.png)
-</p>
+![Banner](https://github.com/NCutler211/NCutler211/assets/92125281/08724de2-940d-4b09-a0f0-42c5143ea84c)
+
 
 <h3 align="center">A Marine Corps veteran  pursuing data-oriented solutions from Indiana </h3>
 <div align="center">
