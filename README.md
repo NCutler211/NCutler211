@@ -8,6 +8,12 @@
 
 <h3 align="left">Hi, I'm Nate, an aspiring member of the data and information industry. I'm a Marine Corps veteran with 7 years of experience in hazardous materials and I look forward to helping you with your data needs.</h3>
 
+| Month | Savings |
+| -------- | ------- |
+| January | $250 |
+| February | $80 |
+| March | $420 |
+
 <h2 align="left"> Languages-Frameworks-Tools </h2>
 <table>
   <colgroup>
