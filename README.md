@@ -1,17 +1,46 @@
+![Banner](https://github.com/NCutler211/NCutler211/assets/92125281/5daab28e-a069-4b9b-a3d1-eeeafeef9530)
+
 <p align="right">
   <a href="https://visitorbadge.io/status?path=NCutler211%2FNCutler211">
     <img src="https://api.visitorbadge.io/api/visitors?path=NCutler211%2FNCutler211&label=Visits&countColor=%23263759" alt="Visits">
   </a>
 </p>
 
-![Banner](https://github.com/NCutler211/NCutler211/assets/92125281/5daab28e-a069-4b9b-a3d1-eeeafeef9530)
+<h3 align="left">Hi, I'm Nate, an aspiring member of the data and information industry. I'm a Marine Corps veteran with 7 years of experience in hazardous materials and I look forward to helping you with your data needs.</h3>
+
+<h2 align="left"> Languages-Frameworks-Tools </h2>
+<table>
+  <tr>
+    <td>
+      
+* Python
+* R
+* SQL
+* Matlab
+
+    </td>
+    <td>
+      
+* Power BI
+* Tableau
+* Excel
+* Access
+
+    </td>
+    <td>
+      
+* Item 11
+* Item 12
+* Item 13
+* Item 14
+* Item 15
+
+    </td>
+  </tr>
+</table>
 
 
 
-<h3 align="center">A Marine Corps veteran  pursuing data-oriented solutions from Indiana </h3>
-<div align="center">
-  
-•• Well-versed in Python, SQL, and data/statistical analysis models ••
 
 </div>
 <br/>
