@@ -18,10 +18,10 @@
   <tr>
     <td>
       
-* Python
-* R
-* SQL
-* Matlab
+* Python                  
+* R                  
+* SQL                
+* Matlab                   
 
     </td>
     <td>
@@ -33,7 +33,6 @@
 
     </td>
     <td>
-      <div style="width:500px">property</div>
 * Item 11
 * Item 12
 * Item 13
