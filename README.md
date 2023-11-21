@@ -10,6 +10,9 @@
 
 <h2 align="left"> Languages-Frameworks-Tools </h2>
 <table>
+  <colgroup>
+    <col style="width: 33%;">
+  </colgroup>
   <tr>
     <td>
       
