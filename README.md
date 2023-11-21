@@ -6,8 +6,6 @@
 
 <p align="center">
   ![Banner](https://github.com/NCutler211/NCutler211gitfront/images/Banner.png)
-
-  </a>
 </p>
 
 <h3 align="center">A Marine Corps veteran  pursuing data-oriented solutions from Indiana </h3>
