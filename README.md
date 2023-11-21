@@ -20,7 +20,7 @@
       
 * Python                  
 * R                  
-* SQL                
+* SQL                d
 * Matlab                   
 
     </td>
