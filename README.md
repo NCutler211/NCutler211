@@ -6,54 +6,7 @@
   </a>
 </p>
 
-<h3 align="left">Hi, I'm Nate, an aspiring member of the data and information industry. I'm a Marine Corps veteran with 7 years of experience in hazardous materials and I look forward to helping you with your data needs.</h3>
-
-| Month Savings |
-| --------------- |
-| January $250 |
-| February $80 |
-| March $420 |
-
-<h2 align="left"> Languages-Frameworks-Tools </h2>
-<table>
-  <colgroup>
-    <col style="width: 33%;">
-    <col style="width: 33%;">
-    <col style="width: 33%;">
-  </colgroup>
-  <tr>
-    <td>
-      
-* Python                  
-* R                  
-* SQL                d
-* Matlab                   
-
-    </td>
-    <td>
-      
-* Power BI
-* Tableau
-* Excel
-* Access
-
-    </td>
-    <td>
-* Item 11
-* Item 12
-* Item 13
-* Item 14
-* Item 15
-
-    </td>
-  </tr>
-</table>
-
-
-
-
-</div>
-<br/>
+<h4 align="left">Hi, I'm Nate, an aspiring member of the data and information industry. I'm a Marine Corps veteran with 7 years of experience in hazardous materials and I look forward to helping you with your data needs.</h4>
 
 <div align="center">
   
