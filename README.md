@@ -12,6 +12,8 @@
 <table>
   <colgroup>
     <col style="width: 33%;">
+    <col style="width: 33%;">
+    <col style="width: 33%;">
   </colgroup>
   <tr>
     <td>
