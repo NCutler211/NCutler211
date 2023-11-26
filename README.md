@@ -4,9 +4,10 @@
 
 <div align="left">
   
-• I'm currently working on [**Project Radiance**](https://github.com/dessak/ISTA498-Capstone) ![Poster_Second_Draft_Version_2](https://github.com/NCutler211/NCutler211/assets/92125281/5dfeea00-25ab-4d2e-ad61-462d2c866a69)
-a relational database of global ambient gamma radiation measurements •
-  
+• I'm currently working on [**Project Radiance**](https://github.com/dessak/ISTA498-Capstone) 
+a relational database of global ambient gamma radiation measurements<br/>
+
+  ![Poster_Second_Draft_Version_2](https://github.com/NCutler211/NCutler211/assets/92125281/5dfeea00-25ab-4d2e-ad61-462d2c866a69)
 </div>
 
 <h2 align="left"> Connect With Me </h2>
