@@ -8,7 +8,7 @@
 a relational database of global ambient gamma radiation measurements<br/>
 </div>
 
-<div align="center"><img src="https://github.com/NCutler211/NCutler211/assets/92125281/85d72450-0c16-42e4-b6a8-fcb98621d567" width="400"></div>
+<div align="center"><img src="https://github.com/NCutler211/NCutler211/assets/92125281/85d72450-0c16-42e4-b6a8-fcb98621d567" width="450"></div>
   
 
   
