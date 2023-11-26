@@ -7,7 +7,8 @@
 • I'm currently working on [**Project Radiance**](https://github.com/dessak/ISTA498-Capstone) 
 a relational database of global ambient gamma radiation measurements<br/>
 </div>
-<div align="center">![Poster_Second_Draft_Version_2](https://github.com/NCutler211/NCutler211/assets/92125281/5dfeea00-25ab-4d2e-ad61-462d2c866a69 width="400")
+<div align="center">
+  <img src="https://github.com/NCutler211/NCutler211/raw/main/assets/92125281/5dfeea00-25ab-4d2e-ad61-462d2c866a69" alt="Poster_Second_Draft_Version_2" width="400" />
 </div>
   
 
