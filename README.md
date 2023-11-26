@@ -1,6 +1,6 @@
 ![Banner](https://github.com/NCutler211/NCutler211/assets/92125281/5daab28e-a069-4b9b-a3d1-eeeafeef9530)
 
-<h4 align="left">Hi, I'm Nate, an aspiring member of the data and information industry. Marine Corps veteran with 7 years of experience in hazardous materials, and I look forward to helping you with your data needs.</h4>
+<h4 align="left">Hi, I'm Nate, an aspiring member of the data and information industry. Marine Corps veteran with 7 years of experience in hazardous materials and emergency management, and I look forward to helping you with your data needs.</h4>
 
 <div align="left">
   
